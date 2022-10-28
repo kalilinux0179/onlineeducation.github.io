@@ -675,7 +675,7 @@ header.header-active {
 
     .card-container {
         display: grid;
-        grid-template-columns: auto auto;
+        grid-template-columns: auto auto auto;
     }
     .review .box-container .box .stars{
         padding: 1rem 1rem;
